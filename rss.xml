@@ -2,17 +2,17 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>שיעורים בהלכות שבת - הרב אריאל כהן</title>
-    <link>https://username.github.io/repo/</link>
+    <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     <description>שיעורים בהלכות שבת מפי הרב אריאל כהן, ישיבת בית אל נתניה. עכשיו זמין להאזנה גם כפודקאסט.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg</url>
       <title>שיעורים בהלכות שבת - הרב אריאל כהן</title>
-      <link>https://username.github.io/repo/</link>
+      <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:09:43 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -22,44 +22,20 @@
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>האם דין כלי שמלאכתו לאיסור הוא מדיני מוקצה? | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
-      <description>האם דין כלי שמלאכתו לאיסור הוא מדיני מוקצה? | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</description>
-      <guid isPermaLink="false">FkEreGwtqcE</guid>
-      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/FkEreGwtqcE/FkEreGwtqcE.mp3" length="74773485" type="audio/mpeg"/>
+      <title>הלכות שבת - הטמנה במקצת - עיון בראשונים ובפוסקים | הרב אריאל כהן</title>
+      <description>הלכות שבת - הטמנה במקצת - עיון בראשונים ובפוסקים | הרב אריאל כהן</description>
+      <guid isPermaLink="false">eCOzB33lGGU</guid>
+      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/eCOzB33lGGU/eCOzB33lGGU.mp3" length="112095981" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:image href="https://i.ytimg.com/vi/FkEreGwtqcE/hqdefault.jpg"/>
+      <itunes:image href="https://i.ytimg.com/vi/eCOzB33lGGU/hqdefault.jpg"/>
     </item>
     <item>
-      <title>5 מדרגות במחלוקת התנאים בדין מוקצה | הרב אריאל כהן שליט"א |ישיבת בית אל נתניה</title>
-      <description>5 מדרגות במחלוקת התנאים בדין מוקצה | הרב אריאל כהן שליט"א |ישיבת בית אל נתניה</description>
-      <guid isPermaLink="false">2IN5TKs0SIY</guid>
-      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/2IN5TKs0SIY/2IN5TKs0SIY.mp3" length="37468269" type="audio/mpeg"/>
+      <title>הלכות שבת - היתרי הטמנה - סימן רנ"ז ב', ה', ו'  | הרב אריאל כהן שליט"א</title>
+      <description>הלכות שבת - היתרי הטמנה - סימן רנ"ז ב', ה', ו'  | הרב אריאל כהן שליט"א</description>
+      <guid isPermaLink="false">lDH0UaHxoWM</guid>
+      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/lDH0UaHxoWM/lDH0UaHxoWM.mp3" length="92217069" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:image href="https://i.ytimg.com/vi/2IN5TKs0SIY/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>שורש מחלוקת רבי יהודה ורבי שמעון בדין מוקצה | הרב אריאל כהן שליט"א</title>
-      <description>שורש מחלוקת רבי יהודה ורבי שמעון בדין מוקצה | הרב אריאל כהן שליט"א</description>
-      <guid isPermaLink="false">Zxa3kCV__dA</guid>
-      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/Zxa3kCV__dA/Zxa3kCV__dA.mp3" length="96925869" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:image href="https://i.ytimg.com/vi/Zxa3kCV__dA/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>מבוא להלכות מוקצה | הרב חיים ירוחם סמוטריץ' שליט"א</title>
-      <description>מבוא להלכות מוקצה | הרב חיים ירוחם סמוטריץ' שליט"א</description>
-      <guid isPermaLink="false">aYABTmpd5_w</guid>
-      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/aYABTmpd5_w/aYABTmpd5_w.mp3" length="84831021" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:image href="https://i.ytimg.com/vi/aYABTmpd5_w/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>הנאה ממלאכת גוי | עיון בשיטת רש"י תוספות ורמב"ם | הרב אריאל כהן</title>
-      <description>הנאה ממלאכת גוי | עיון בשיטת רש"י תוספות ורמב"ם | הרב אריאל כהן</description>
-      <guid isPermaLink="false">oGEC5386bAE</guid>
-      <enclosure url="https://github.com/roeepe/NetanyaShabbatPod/releases/download/oGEC5386bAE/oGEC5386bAE.mp3" length="36531117" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:image href="https://i.ytimg.com/vi/oGEC5386bAE/hqdefault.jpg"/>
+      <itunes:image href="https://i.ytimg.com/vi/lDH0UaHxoWM/hqdefault.jpg"/>
     </item>
     <item>
       <title>אילו שברי כלים מותרים בטלטול בשבת | סימן ש"ח | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
