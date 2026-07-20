@@ -147,9 +147,16 @@ def main():
         logging.warning("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Audio upload to releases will be skipped.")
     
     videos = get_playlist_videos(config['youtube_playlist_url'])
+    videos.reverse() # Process oldest to newest (assuming newest-first playlist)
     new_episodes_found = False
+    episodes_added = 0
+    MAX_BATCH_SIZE = 2
     
     for video in videos:
+        if episodes_added >= MAX_BATCH_SIZE:
+            logging.info(f"Reached batch limit of {MAX_BATCH_SIZE} episodes. Stopping for now.")
+            break
+
         vid = video['id']
         if vid in processed_ids:
             continue
@@ -184,6 +191,7 @@ def main():
                 save_json('episodes.json', episodes)
                 processed_ids.add(vid)
                 new_episodes_found = True
+                episodes_added += 1
                 
                 # Cleanup mp3 locally after upload
                 os.remove(mp3_filename)

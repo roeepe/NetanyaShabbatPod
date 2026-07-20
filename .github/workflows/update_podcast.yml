@@ -2,8 +2,9 @@ name: Update Podcast RSS Feed
 
 on:
   schedule:
-    # Run daily at 21:00 UTC (00:00 Israel Summer Time)
-    - cron: '0 21 * * *'
+    # Run at 21:00 UTC (00:00 Israel Time) on Sat, Sun, Mon, Tue, Wed
+    # This corresponds to Sun, Mon, Tue, Wed, Thu midnights in Israel (Excludes Fri-Sat)
+    - cron: '0 21 * * 6,0,1,2,3'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
@@ -29,6 +30,8 @@ jobs:
           # yt-dlp requires ffmpeg for audio extraction
           sudo apt-get update && sudo apt-get install -y ffmpeg
           pip install --upgrade -r requirements.txt
+          # Use nightly yt-dlp to bypass youtube bot detection
+          pip install -U https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 
       - name: Run podcast updater script
         env:
