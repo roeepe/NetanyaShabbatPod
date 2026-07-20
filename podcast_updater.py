@@ -105,6 +105,8 @@ def generate_rss(config, episodes, output_file):
     fg.podcast.itunes_category('Education')
     fg.podcast.itunes_image(config['podcast_cover_image_url'])
     fg.podcast.itunes_explicit('no')
+    fg.podcast.itunes_author(config['podcast_author'])
+    fg.podcast.itunes_owner(name=config['podcast_author'], email=config['podcast_email'])
 
     # Add episodes in reverse chronological order (newest first)
     # Ensure episodes is sorted by upload_date descending, or just iterate reversed if we append newest at the end
