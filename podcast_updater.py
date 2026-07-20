@@ -149,10 +149,10 @@ def main():
         logging.warning("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Audio upload to releases will be skipped.")
     
     videos = get_playlist_videos(config['youtube_playlist_url'])
-    videos.reverse() # Process oldest to newest (assuming newest-first playlist)
+    # YT-DLP naturally returns oldest first for this playlist
     new_episodes_found = False
     episodes_added = 0
-    MAX_BATCH_SIZE = 2
+    MAX_BATCH_SIZE = 5
     
     for video in videos:
         if episodes_added >= MAX_BATCH_SIZE:
