@@ -152,7 +152,7 @@ def main():
     # YT-DLP naturally returns oldest first for this playlist
     new_episodes_found = False
     episodes_added = 0
-    MAX_BATCH_SIZE = 5
+    MAX_BATCH_SIZE = 2
     
     for video in videos:
         if episodes_added >= MAX_BATCH_SIZE:
