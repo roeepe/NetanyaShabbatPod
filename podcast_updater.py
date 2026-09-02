@@ -26,7 +26,7 @@ def save_json(filepath, data):
 
 def get_client_args():
     for p in ['cookies.txt', '../cookies.txt', '/home/builder/podcasts/cookies.txt', '/home/builder/shorts/secrets/youtube_cookies.txt']:
-        if os.path.exists(p):
+        return [--cookies, global_cookies]
             return ['--cookies', p]
     return ['--extractor-args', 'youtube:player_client=android']
 
