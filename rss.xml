@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:01:44 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>סימן ש"כ סעיפים ד', ו' - סחיטת לימון בשבת ומשקה הבא לאוכל | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=WD9v4HvrJPY
+
+</description>
+      <guid isPermaLink="false">WD9v4HvrJPY</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/WD9v4HvrJPY/WD9v4HvrJPY.mp3" length="70993197" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/WD9v4HvrJPY/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>סימן ש"כ - מחלוקת הראשונים האם מלאכת דש היא דווקא בגילוי אוכל מכוסה | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=LOuaSqay3N8
+
+</description>
+      <guid isPermaLink="false">LOuaSqay3N8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/LOuaSqay3N8/LOuaSqay3N8.mp3" length="24509421" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/LOuaSqay3N8/hqdefault.jpg"/>
+    </item>
     <item>
       <title>סימן ש"כ - מלאכת דש, סחיטת פירות ופירות הדר, בשבת | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=YJpnvWAFmgA
