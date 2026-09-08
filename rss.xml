@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:08:37 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>סימן ש"כ - מלאכת דש, סחיטת פירות ופירות הדר, בשבת | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=YJpnvWAFmgA
+
+</description>
+      <guid isPermaLink="false">YJpnvWAFmgA</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/YJpnvWAFmgA/YJpnvWAFmgA.mp3" length="74510829" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/YJpnvWAFmgA/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>אוכל מתוך פסולת - דרך אכילה | סימן שי"ט סעיף א' | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=FT5RrL87_eY
+
+</description>
+      <guid isPermaLink="false">FT5RrL87_eY</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/FT5RrL87_eY/FT5RrL87_eY.mp3" length="72471213" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/FT5RrL87_eY/hqdefault.jpg"/>
+    </item>
     <item>
       <title>יסודות מלאכת בורר | סימן שי"ט | הלכות שבת - הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=J7kQCeZDOE8
