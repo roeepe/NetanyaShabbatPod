@@ -1,1 +1,6 @@
-*.mp3n*.mp4n*.webmn*.m4an*.part 
+*.mp3
+*.mp4
+*.webm
+*.m4a
+*.part
+__pycache__/

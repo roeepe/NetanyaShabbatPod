@@ -26,7 +26,7 @@ def save_json(filepath, data):
 
 def get_client_args():
     for p in ['cookies.txt', '../cookies.txt', '/home/builder/podcasts/cookies.txt', '/home/builder/shorts/secrets/youtube_cookies.txt']:
-        return [--cookies, global_cookies]
+        if os.path.exists(p):
             return ['--cookies', p]
     return ['--extractor-args', 'youtube:player_client=android']
 
@@ -55,9 +55,12 @@ def get_video_details(video_url):
 
 def download_audio(video_url, output_filename):
     logging.info(f"Downloading audio for {video_url}...")
+    ffmpeg_args = []
+    if os.path.isdir('/home/builder/shorts/bin'):
+        ffmpeg_args = ['--ffmpeg-location', '/home/builder/shorts/bin']
     cmd = [
         sys.executable, '-m', 'yt_dlp',
-    ] + get_client_args() + [
+    ] + get_client_args() + ffmpeg_args + [
         '-x', 
         '--audio-format', 'mp3',
         '--audio-quality', '192K',
@@ -162,10 +165,10 @@ def main():
         logging.warning("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Audio upload to releases will be skipped.")
     
     videos = get_playlist_videos(config['youtube_playlist_url'])
-    # YT-DLP naturally returns oldest first for this playlist
+    videos.reverse()  # playlist comes back newest-first; publish the series in learning order
     new_episodes_found = False
     episodes_added = 0
-    MAX_BATCH_SIZE = 2
+    MAX_BATCH_SIZE = int(os.environ.get('MAX_BATCH_SIZE', '2'))
     
     for video in videos:
         if episodes_added >= MAX_BATCH_SIZE:
