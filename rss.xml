@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:02:38 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,27 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>יסודות מלאכת לש - ההבדל בין פסיקת האשכנזים לפסיקת הספרדים</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=pVTsw-xMjFk
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">pVTsw-xMjFk</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/pVTsw-xMjFk/pVTsw-xMjFk.mp3" length="78598125" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/pVTsw-xMjFk/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>שימוש בסלייסר בשבת | הגדרת מלאכת טוחן | סימן שכא חלק ב | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=W64tDI8MHZo
+
+</description>
+      <guid isPermaLink="false">W64tDI8MHZo</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/W64tDI8MHZo/W64tDI8MHZo.mp3" length="97426413" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/W64tDI8MHZo/hqdefault.jpg"/>
+    </item>
     <item>
       <title>כיצד מולחים סלט? | הלכות מליחה וכבישה בשבת | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=hJ3UQWKccvw
