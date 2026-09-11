@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:02:03 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,29 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>האם מותר לקפל טלית בשבת? | סימן ש"ב סעיף ג | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=UEJXkv3GriU
+
+שיעור לעומק סוגיית קיפול בגדים בשבת.
+מחלוקת הראשונים עד ההלכה והמנהגים השונים. לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">UEJXkv3GriU</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/UEJXkv3GriU/UEJXkv3GriU.mp3" length="57000429" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/UEJXkv3GriU/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>יסודות מלאכות מלבן - סימן שב | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=gw9bOTgsjJI
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">gw9bOTgsjJI</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/gw9bOTgsjJI/gw9bOTgsjJI.mp3" length="57808557" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/gw9bOTgsjJI/hqdefault.jpg"/>
+    </item>
     <item>
       <title>יסודות מלאכת לש - ההבדל בין פסיקת האשכנזים לפסיקת הספרדים</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=pVTsw-xMjFk
