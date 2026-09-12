@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:01:50 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,28 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>כיבוס בעור ובגדי ניילון - סימן שב | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=npKMM8lZzoA
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">npKMM8lZzoA</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/npKMM8lZzoA/npKMM8lZzoA.mp3" length="60626925" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/npKMM8lZzoA/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>שרייתו זהו כיבסו - חידושו של בעל התניא | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Xicq-B-6kng
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">Xicq-B-6kng</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/Xicq-B-6kng/Xicq-B-6kng.mp3" length="55224045" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Xicq-B-6kng/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם מותר לקפל טלית בשבת? | סימן ש"ב סעיף ג | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=UEJXkv3GriU
