@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:02:01 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,28 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>יסודות מלאכת בונה | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=IG8rhMgUV_8
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">IG8rhMgUV_8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/IG8rhMgUV_8/IG8rhMgUV_8.mp3" length="53785773" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/IG8rhMgUV_8/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>שימוש במגבונים בשבת | סימן ש"ב | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=14-rEeXlc-g
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">14-rEeXlc-g</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/14-rEeXlc-g/14-rEeXlc-g.mp3" length="67158189" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/14-rEeXlc-g/hqdefault.jpg"/>
+    </item>
     <item>
       <title>כיבוס בעור ובגדי ניילון - סימן שב | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=npKMM8lZzoA
