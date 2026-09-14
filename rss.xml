@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:03:05 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>כללי מלאכת בונה | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=ir7Srl1Cjrs
+
+</description>
+      <guid isPermaLink="false">ir7Srl1Cjrs</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/ir7Srl1Cjrs/ir7Srl1Cjrs.mp3" length="85320621" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ir7Srl1Cjrs/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מלאכת בונה - עד היכן? - האם מותר להחזיר תקרה אקוסטית? | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Dz5nAuj4Rek
+
+</description>
+      <guid isPermaLink="false">Dz5nAuj4Rek</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/Dz5nAuj4Rek/Dz5nAuj4Rek.mp3" length="60808365" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Dz5nAuj4Rek/hqdefault.jpg"/>
+    </item>
     <item>
       <title>יסודות מלאכת בונה | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=IG8rhMgUV_8
