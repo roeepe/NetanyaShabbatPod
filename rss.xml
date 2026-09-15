@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:02:42 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>הכנת צנימים בשבת - מכה בפטיש חלק ב | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=WvutuzW2EN8
+
+משיטות הראשונים בסוגיית מכה בפטיש למחלוקת האחרונים בנושא הכנת צנימים</description>
+      <guid isPermaLink="false">WvutuzW2EN8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/WvutuzW2EN8/WvutuzW2EN8.mp3" length="43870509" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/WvutuzW2EN8/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>הגדרת מלאכת מכה בפטיש - חלק א' | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=W3ReBiVTvm0
+
+</description>
+      <guid isPermaLink="false">W3ReBiVTvm0</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/W3ReBiVTvm0/W3ReBiVTvm0.mp3" length="68796909" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/W3ReBiVTvm0/hqdefault.jpg"/>
+    </item>
     <item>
       <title>כללי מלאכת בונה | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=ir7Srl1Cjrs
