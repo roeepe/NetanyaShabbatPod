@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:09:18 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,27 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>מותר לשחק בלגו בשבת? מעיון למעשה חלק א' | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=H3RvYW0Rwf4
+
+הרכבת לגו, בקבוקים, מלחיות וחפצים נוספים בשבת.
+שיעור מעשי בהלכות בניין בכלים - חלק ראשון.</description>
+      <guid isPermaLink="false">H3RvYW0Rwf4</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/H3RvYW0Rwf4/H3RvYW0Rwf4.mp3" length="86599341" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/H3RvYW0Rwf4/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>בניין וסתירה בכלים - יסודות מחלוקת הראשונים | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=5zdBWlDC6Yc
+
+</description>
+      <guid isPermaLink="false">5zdBWlDC6Yc</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/5zdBWlDC6Yc/5zdBWlDC6Yc.mp3" length="89180973" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/5zdBWlDC6Yc/hqdefault.jpg"/>
+    </item>
     <item>
       <title>הכנת צנימים בשבת - מכה בפטיש חלק ב | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=WvutuzW2EN8
