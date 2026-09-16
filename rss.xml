@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:01:49 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,32 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>פתיחת קופסאות שימורים בשבת | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Zx6L_OoWxJA
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">Zx6L_OoWxJA</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/Zx6L_OoWxJA/Zx6L_OoWxJA.mp3" length="37340397" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Zx6L_OoWxJA/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מה מותר להרכיב בשבת? מעיון למעשה חלק ב' | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=68p-Do80ejI
+
+הרכבת כסא תינוק, סגירת פקק של קטשופ, הגדלת שולחן וסטנדר בשבת עם הדגמות מעשיות.
+שיעור מעשי בהלכות בנין בכלים - חלק שני.
+
+לאתר האינטרנט של הישיבה:
+
+ygn.org.il</description>
+      <guid isPermaLink="false">68p-Do80ejI</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/68p-Do80ejI/68p-Do80ejI.mp3" length="56057517" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/68p-Do80ejI/hqdefault.jpg"/>
+    </item>
     <item>
       <title>מותר לשחק בלגו בשבת? מעיון למעשה חלק א' | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=H3RvYW0Rwf4
