@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:05:14 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,28 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>האם יש איסור אוהל בהחזרת מגירות שולחן וארון - דיון בחומרת החיי אדם | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Ny-IwKOS7Bo
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">Ny-IwKOS7Bo</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/Ny-IwKOS7Bo/Ny-IwKOS7Bo.mp3" length="46769517" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Ny-IwKOS7Bo/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>דיני אוהל בבניית שולחן מיטה וכדו' | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=oo4C_yYcPFc
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">oo4C_yYcPFc</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/oo4C_yYcPFc/oo4C_yYcPFc.mp3" length="74125485" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/oo4C_yYcPFc/hqdefault.jpg"/>
+    </item>
     <item>
       <title>פתיחת קופסאות שימורים בשבת | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Zx6L_OoWxJA
