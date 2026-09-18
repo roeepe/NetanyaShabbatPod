@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:02:36 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,27 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>פתיחה למלאכת קושר | הרב אריאל כהן שליט''א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=La4E5Gix39o
+
+השיעור עוסק בהבנת ההבדל בין סוגי המלאכות השונות הדומות לקשירה והתרה.</description>
+      <guid isPermaLink="false">La4E5Gix39o</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/La4E5Gix39o/La4E5Gix39o.mp3" length="68481837" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/La4E5Gix39o/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מלאכת צד - הגדרת המלאכה וצידה על ידי כדור הרדמה | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=lyFqrgHu5io
+
+לאתר האינטרנט של הישיבה:
+ygn.org.il</description>
+      <guid isPermaLink="false">lyFqrgHu5io</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/lyFqrgHu5io/lyFqrgHu5io.mp3" length="86563053" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/lyFqrgHu5io/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם יש איסור אוהל בהחזרת מגירות שולחן וארון - דיון בחומרת החיי אדם | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=Ny-IwKOS7Bo
