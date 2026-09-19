@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:02:10 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>עיון בדין קשר שאינו של קיימא | הרב אריאל כהן שליט''א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=9z00KE_hHPw
+
+</description>
+      <guid isPermaLink="false">9z00KE_hHPw</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/9z00KE_hHPw/9z00KE_hHPw.mp3" length="69269229" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/9z00KE_hHPw/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מלאכת קושר הלכה למעשה | הרב אריאל כהן שליט''א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=SZkcyXPp79Q
+
+</description>
+      <guid isPermaLink="false">SZkcyXPp79Q</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/SZkcyXPp79Q/SZkcyXPp79Q.mp3" length="70340013" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SZkcyXPp79Q/hqdefault.jpg"/>
+    </item>
     <item>
       <title>פתיחה למלאכת קושר | הרב אריאל כהן שליט''א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=La4E5Gix39o
