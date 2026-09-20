@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:02:42 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>הלכות גינה בשבת - סימן של"ו הלכה למעשה! | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=0RB8Y9j5PcY
+
+</description>
+      <guid isPermaLink="false">0RB8Y9j5PcY</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/0RB8Y9j5PcY/0RB8Y9j5PcY.mp3" length="73750509" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/0RB8Y9j5PcY/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>עיון בדיני זורע | הרב אריאל כהן שליט"א | כולל הלכה ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=T3C38Ce-TCQ
+
+</description>
+      <guid isPermaLink="false">T3C38Ce-TCQ</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/T3C38Ce-TCQ/T3C38Ce-TCQ.mp3" length="95174829" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/T3C38Ce-TCQ/hqdefault.jpg"/>
+    </item>
     <item>
       <title>עיון בדין קשר שאינו של קיימא | הרב אריאל כהן שליט''א | ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=9z00KE_hHPw
