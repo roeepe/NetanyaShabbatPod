@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:02:31 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>האם מותר לרקוד ולמחוא כפיים בשבת? | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=e2UqyTpezXg
+
+</description>
+      <guid isPermaLink="false">e2UqyTpezXg</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/e2UqyTpezXg/e2UqyTpezXg.mp3" length="83168685" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/e2UqyTpezXg/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>האם מותר לטאטא ולשטוף בית בשבת? עיון ופסיקה בסימן של"ז | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=eHwrM7jj9FU
+
+</description>
+      <guid isPermaLink="false">eHwrM7jj9FU</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/eHwrM7jj9FU/eHwrM7jj9FU.mp3" length="101927277" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/eHwrM7jj9FU/hqdefault.jpg"/>
+    </item>
     <item>
       <title>הלכות גינה בשבת - סימן של"ו הלכה למעשה! | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=0RB8Y9j5PcY
