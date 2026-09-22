@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:03:06 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>האם מותר לאכול עוגה עם כיתוב בשבת? | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=DSFEymkC1CE
+
+</description>
+      <guid isPermaLink="false">DSFEymkC1CE</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/DSFEymkC1CE/DSFEymkC1CE.mp3" length="71298477" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/DSFEymkC1CE/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>גדרי מלאכת גוזז | הרב אריאל כהן | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=_CRImXrmnhM
+
+</description>
+      <guid isPermaLink="false">_CRImXrmnhM</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/_CRImXrmnhM/_CRImXrmnhM.mp3" length="93495213" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_CRImXrmnhM/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם מותר לרקוד ולמחוא כפיים בשבת? | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=e2UqyTpezXg
