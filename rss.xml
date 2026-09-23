@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:02:46 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>מהות מלאכת קורע | הלכות שבת | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=ppsmeebDH84
+
+</description>
+      <guid isPermaLink="false">ppsmeebDH84</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/ppsmeebDH84/ppsmeebDH84.mp3" length="86244525" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ppsmeebDH84/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>עיון ביסודות מלאכת כותב | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=f8ofrHR1y-Y
+
+</description>
+      <guid isPermaLink="false">f8ofrHR1y-Y</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/f8ofrHR1y-Y/f8ofrHR1y-Y.mp3" length="69079725" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/f8ofrHR1y-Y/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם מותר לאכול עוגה עם כיתוב בשבת? | הרב אריאל כהן</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=DSFEymkC1CE
