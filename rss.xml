@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:02:00 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>איסור שכר שבת במניות ואגרות חוב | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=SW8yEGGEzeo
+
+</description>
+      <guid isPermaLink="false">SW8yEGGEzeo</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/SW8yEGGEzeo/SW8yEGGEzeo.mp3" length="54946413" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SW8yEGGEzeo/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>טעם איסור אמירה לגוי בשבת | הרב אריאל כהן</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=WqTQF6Uno-8
+
+</description>
+      <guid isPermaLink="false">WqTQF6Uno-8</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/WqTQF6Uno-8/WqTQF6Uno-8.mp3" length="62383149" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/WqTQF6Uno-8/hqdefault.jpg"/>
+    </item>
     <item>
       <title>מהות מלאכת קורע | הלכות שבת | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=ppsmeebDH84
