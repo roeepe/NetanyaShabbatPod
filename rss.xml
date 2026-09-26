@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:02:42 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>מה מותר להגיד לגוי לעשות בשבת? | שיעור עיוני | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=quCdMcL_bIM
+
+</description>
+      <guid isPermaLink="false">quCdMcL_bIM</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/quCdMcL_bIM/quCdMcL_bIM.mp3" length="71165997" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/quCdMcL_bIM/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מתי מותר לרמוז לגוי של שבת? | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=p0FSSPfRXPY
+
+</description>
+      <guid isPermaLink="false">p0FSSPfRXPY</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/p0FSSPfRXPY/p0FSSPfRXPY.mp3" length="68427693" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/p0FSSPfRXPY/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם מותר לתת מתנה בשבת | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=qdJCtNuZyhk
