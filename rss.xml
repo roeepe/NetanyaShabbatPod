@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sat, 26 Sep 2026 20:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:01:54 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>הנאה ממלאכת גוי בשבת - שיעור מעשי חלק א | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=X0Emt4wJVVU
+
+</description>
+      <guid isPermaLink="false">X0Emt4wJVVU</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/X0Emt4wJVVU/X0Emt4wJVVU.mp3" length="43291053" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/X0Emt4wJVVU/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>קריאה בשטרי הדיוטות | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=xKnPn2Yy_oc
+
+</description>
+      <guid isPermaLink="false">xKnPn2Yy_oc</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/xKnPn2Yy_oc/xKnPn2Yy_oc.mp3" length="80640045" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/xKnPn2Yy_oc/hqdefault.jpg"/>
+    </item>
     <item>
       <title>מה מותר להגיד לגוי לעשות בשבת? | שיעור עיוני | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=quCdMcL_bIM
