@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:02:35 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>בסיס לדבר האסור - מעיון בראשונים להלכה | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=SozBYrqjPxE
+
+</description>
+      <guid isPermaLink="false">SozBYrqjPxE</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/SozBYrqjPxE/SozBYrqjPxE.mp3" length="89013933" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SozBYrqjPxE/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>הגדרת בסיס לדבר האסור | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=y-iPtMN35oY
+
+</description>
+      <guid isPermaLink="false">y-iPtMN35oY</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/y-iPtMN35oY/y-iPtMN35oY.mp3" length="71542125" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/y-iPtMN35oY/hqdefault.jpg"/>
+    </item>
     <item>
       <title>גדר טלטול מן הצד | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=1C7IgrH5inQ
