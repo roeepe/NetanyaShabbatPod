@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:48:04 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>גדר טלטול מן הצד | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=1C7IgrH5inQ
+
+</description>
+      <guid isPermaLink="false">1C7IgrH5inQ</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/1C7IgrH5inQ/1C7IgrH5inQ.mp3" length="27370413" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/1C7IgrH5inQ/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>הנאה ממלאכת גוי בשבת, שיעור מעשי - חלק ב | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=-ZXEAGdGDiU
+
+</description>
+      <guid isPermaLink="false">-ZXEAGdGDiU</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/ep-ZXEAGdGDiU/-ZXEAGdGDiU.mp3" length="59028525" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/-ZXEAGdGDiU/hqdefault.jpg"/>
+    </item>
     <item>
       <title>הנאה ממלאכת גוי בשבת - שיעור מעשי חלק א | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=X0Emt4wJVVU
