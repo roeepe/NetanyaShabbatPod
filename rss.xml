@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:02:54 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>עיונים בדין בסיס לדבר האסור | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=oU-Ycb0XgQs
+
+</description>
+      <guid isPermaLink="false">oU-Ycb0XgQs</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/oU-Ycb0XgQs/oU-Ycb0XgQs.mp3" length="92327085" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/oU-Ycb0XgQs/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>סיכום כללים העולים מסימן ש"י | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=ukY_5LLVYsA
+
+</description>
+      <guid isPermaLink="false">ukY_5LLVYsA</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/ukY_5LLVYsA/ukY_5LLVYsA.mp3" length="81836973" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ukY_5LLVYsA/hqdefault.jpg"/>
+    </item>
     <item>
       <title>בסיס לדבר האסור - מעיון בראשונים להלכה | הרב אריאל כהן שליט"א| ישיבת בית אל נתניה</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=SozBYrqjPxE
