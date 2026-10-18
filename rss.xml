@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:01:24 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,26 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>שבת דחויה או הותרה? - הלכה למעשה | הרב אריאל כהן שליט"א | ישיבת בית אל נתניה</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=obmY_KKaa9c
+
+</description>
+      <guid isPermaLink="false">obmY_KKaa9c</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/obmY_KKaa9c/obmY_KKaa9c.mp3" length="31542957" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/obmY_KKaa9c/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>מתחילים סימן שכ"ח! אילו איסורי דרבנן הותרו לצורך חולה בשבת? | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=TEFmiHd5uYk
+
+</description>
+      <guid isPermaLink="false">TEFmiHd5uYk</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/TEFmiHd5uYk/TEFmiHd5uYk.mp3" length="50398893" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/TEFmiHd5uYk/hqdefault.jpg"/>
+    </item>
     <item>
       <title>האם תנאי מועיל בבסיס לדבר האסור? | שיעור עיון הלכתי לכולל הלכות שבת | הרב סמוטריץ שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=5tScDINUkDs
