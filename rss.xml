@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:01:05 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,16 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>שיעור חזרה - מסכם סימן שי"ג | הרב אריאל כהן שליט"א</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=w6bonXo3VMM
+
+</description>
+      <guid isPermaLink="false">w6bonXo3VMM</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/w6bonXo3VMM/w6bonXo3VMM.mp3" length="64946349" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/w6bonXo3VMM/hqdefault.jpg"/>
+    </item>
     <item>
       <title>פיקוח נפש בשבת - והיחס בין הרפואה בימי חז"ל לרפואה בימינו | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=FilyJ6qw4S4
