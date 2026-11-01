@@ -12,7 +12,7 @@
       <link>https://roeepe.github.io/NetanyaShabbatPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:01:20 +0000</lastBuildDate>
     <itunes:author>ישיבת בית אל - נתניה</itunes:author>
     <itunes:category text="Education"/>
     <itunes:image href="https://roeepe.github.io/NetanyaShabbatPod/podcast_cover.jpg"/>
@@ -21,6 +21,16 @@
       <itunes:name>ישיבת בית אל - נתניה</itunes:name>
       <itunes:email>ybe.net613@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>שיעור חזרה - מסכם סימן שט"ו</title>
+      <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=0VR3Fz_EcpU
+
+</description>
+      <guid isPermaLink="false">0VR3Fz_EcpU</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/NetanyaShabbatPod/releases/download/0VR3Fz_EcpU/0VR3Fz_EcpU.mp3" length="84648429" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/0VR3Fz_EcpU/hqdefault.jpg"/>
+    </item>
     <item>
       <title>שיעור חזרה - מסכם סימן שי"ג | הרב אריאל כהן שליט"א</title>
       <description>לצפייה בסרטון המקורי ביוטיוב: https://www.youtube.com/watch?v=w6bonXo3VMM
