@@ -96,15 +96,26 @@ def upload_to_github_release(github_token, repo_name, tag_name, file_path):
                 return asset.browser_download_url
     return None
 
+def credit_line(config):
+    # שורת ההפקה בסוף כל פרק ובתיאור הפודקאסט (רועי, 23/11/2026: «שבכל פרק יהיה כתוב הפקה סטודיו תכלית»).
+    # נוסף בזמן בניית הפיד ולא נשמר ב-episodes.json, כך שהחלפת הקישור (לעמוד יצירת הפודקאסטים, כשייבנה) = שורה ב-podcast_info.json.
+    return (config.get('production_credit') or '').strip()
+
+
+def with_credit(text, config):
+    c = credit_line(config)
+    return f"{(text or '').rstrip()}\n\n{c}" if c else text
+
+
 def generate_rss(config, episodes, output_file):
     fg = FeedGenerator()
     fg.load_extension('podcast')
     
     fg.title(config['podcast_title'])
-    fg.description(config['podcast_description'])
+    fg.description(with_credit(config['podcast_description'], config))
     fg.author({'name': config['podcast_author'], 'email': config['podcast_email']})
     fg.logo(config['podcast_cover_image_url'])
-    fg.subtitle(config['podcast_description'])
+    fg.subtitle(with_credit(config['podcast_description'], config))  # בפידג'ן subtitle = description
     fg.language('he') # Hebrew by default
     
     github_repo = os.environ.get('GITHUB_REPOSITORY', 'username/repo')
@@ -126,7 +137,7 @@ def generate_rss(config, episodes, output_file):
         fe = fg.add_entry()
         fe.id(ep['id'])
         fe.title(ep['title'])
-        fe.description(ep['description'] or ep['title'])
+        fe.description(with_credit(ep['description'] or ep['title'], config))
         
         # Parse yt-dlp upload_date (YYYYMMDD) to datetime
         upload_date = datetime.strptime(ep['upload_date'], '%Y%m%d')
@@ -218,7 +229,10 @@ def main():
             else:
                 logging.error("Failed to get audio URL from GitHub releases. Not saving to episodes.json.")
         
-    if new_episodes_found or not os.path.exists('rss.xml'):
+    # שורת הפקה שנוספה או השתנתה ב-podcast_info.json → בונים מחדש גם בלי פרק חדש (פעם אחת, לא בכל ריצה).
+    credit_missing = bool(credit_line(config)) and os.path.exists('rss.xml') and \
+        credit_line(config) not in open('rss.xml', encoding='utf-8').read()
+    if new_episodes_found or credit_missing or not os.path.exists('rss.xml'):
         generate_rss(config, episodes, 'rss.xml')
     else:
         logging.info("No new episodes to process.")
